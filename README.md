@@ -4,7 +4,7 @@
 
 This project addresses the critical challenge of credit card fraud detection by applying machine learning to an imbalanced dataset. The analysis follows a structured process from initial data exploration to model evaluation, providing insights into which algorithms perform best for this specific problem.
 
-![Fraud Detection Analysis Preview](assets/fraud_detect_vis)
+![Fraud Detection Analysis Preview](assets/fraud_detect_vis.png)
 
 *A composite of key insights: Features heatmap (top-left), model comparison via ROC curves (top-right), SVM learning curves (bottom-left), and final performance from confusion matrices of the SVM models(bottom-right).*
 
