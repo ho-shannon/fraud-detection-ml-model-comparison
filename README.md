@@ -11,6 +11,7 @@ This project addresses the critical challenge of credit card fraud detection by 
 **Full Code & Analysis:** 
 
 [View Jupyter Notebook on GitHub](analysis/fraud_detection_analysis.ipynb)  
+
 ---
 
 ## Objective
