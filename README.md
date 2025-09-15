@@ -8,6 +8,9 @@ This project addresses the critical challenge of credit card fraud detection by 
 
 *A composite of key insights: Features heatmap (top-left), model comparison via ROC curves (top-right), SVM learning curves (bottom-left), and final performance from confusion matrices of the SVM models(bottom-right).*
 
+**Full Code & Analysis:** 
+
+[View Jupyter Notebook on GitHub](analysis/fraud_detection_analysis.ipynb)  
 ---
 
 ## Objective
