@@ -18,7 +18,7 @@ This project addresses the critical challenge of credit card fraud detection by 
 
 A comparative machine learning project aimed at minimizing financial fraud by developing and evaluating predictive models on a highly imbalanced dataset of credit card transactions.
 
-**Primary Goal:** To identify the most effective machine learning model for accurately detecting fraudulent transactions while minimizing false positives.
+**Goal:** To identify the most effective machine learning model for accurately detecting fraudulent transactions while minimizing false positives.
 
 ## Process & Methodology
 1. **Data Loading & Inspection:** Used Python and Pandas to load the raw CSV data and perform preliminary checks on its structure, size, and class distribution.
